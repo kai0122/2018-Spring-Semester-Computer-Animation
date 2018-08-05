@@ -5,6 +5,6 @@
 * boost_1_59_0
 	* Download Link: https://www.boost.org/users/history/version_1_59_0.html
 ### Building Steps
-#### Please put **Eigen** and **boost_1_59_0** directory with the motion_editor directory
-#### Open the .sln file with **Visual Studio 2010**
+* Please put **Eigen** and **boost_1_59_0** directory with the motion_editor directory
+* Open the .sln file with **Visual Studio 2010**
 
