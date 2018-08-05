@@ -1,4 +1,6 @@
 # 2018 Spring Semester Computer Animation
+### Course Notes
+* https://kai0122.github.io/personal_site/notesCA.html
 ### Environments
 * Visual Studio 2010
 * Eigen (In Requirements Directory)
