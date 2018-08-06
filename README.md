@@ -1,6 +1,10 @@
 # 2018 Spring Semester Computer Animation
 ### Course Notes
 * https://kai0122.github.io/personal_site/notesCA.html
+### About
+* homework1: Particle System Simulation
+* homework2: Human Skeleton Simulation: Forword Kinematics
+* homework3: Human Skeleton Simulation: Inverse Kinematics
 ### Environments
 * Visual Studio 2010
 * Eigen (In Requirements Directory)
